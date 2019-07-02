@@ -1,0 +1,19 @@
+/* body{
+    background-color: blueviolet
+} */
+
+#canvas{
+    display: block;
+}
+
+#startBtn{
+    border: 5px tomato solid;
+    font-size: 40px;
+    position: absolute;
+    left: 450px;
+    top: 340px;
+}
+
+#restartBtn{
+    display: none;
+}
